@@ -237,9 +237,9 @@
     <string name="trenddoubleup">hacia arriba de forma acentuada</string>
     <!--2021-03-23-->
     <string name="unit_days" translatable="false">days</string>
-    <string name="donation" translatable="false">Donation</string>
+    <string name="donation" translatable="false">Donación</string>
     <string name="never" translatable="false">Never</string>
-    <string name="speak_bg_reading" translatable="false">Speak BG Readings</string>
+    <string name="speak_bg_reading" translatable="false">Lecturas de Glucosa habladas</string>
     <string name="speak_bg_trend" translatable="false">Speak BG Trend</string>
     <string name="speak_bg_delta" translatable="false">Speak BG Delta</string>
     <string name="speak_interval" translatable="false">Interval</string>
@@ -263,8 +263,8 @@
     <string name="alert_disable_title" translatable="false">Do you want to disable %1$s Alert?</string>
     <string name="alert_disable_content" translatable="false">You would miss all %1$s Alert
         \nuntil you reenable any of tone or vibrate</string>
-    <string name="share_data" translatable="false">Share data with smartwatches</string>
-    <string name="share_data_content" translatable="false">Pebble,Garmin,Nightguard...Integration!</string>
+    <string name="share_data" translatable="false">Compartir datos con smartwatches</string>
+    <string name="share_data_content" translatable="false">Integración con Pebble,Garmin,Nightguard...</string>
 
     <string name="sensor_restart" translatable="false">Restart Libre1 Sensor？</string>
     <string name="sensor_restart_content" translatable="false">This feature is highly experimental which can permanently break your sensor. There\'s no guarantee for accuracy and DO NOT use it to make any medical decisions. All consequences are at your own risk.</string>
@@ -294,8 +294,8 @@
     <string name="bluetooth_off" translatable="false">Bluetooth is OFF</string>
     <string name="bluetooth_off_content" translatable="false">Turn Bluetooth on for DiaBox to capture your glucose and alert.</string>
     <string name="donors" translatable="false">Thanks for the donors, All (names are arranged) in random order:</string>
-    <string name="share_gwatch_data" translatable="false">Share data with GWatch</string>
-    <string name="share_gwatch_data_content" translatable="false">GWatch Integration!</string>
+    <string name="share_gwatch_data" translatable="false">Compartir datos con GWatch</string>
+    <string name="share_gwatch_data_content" translatable="false">Integración con GWatch</string>
     <string name="watch" translatable="false">Watch</string>
     <string name="watlaa" translatable="false">Watlaa</string>
     <string name="bubble_fw_update" translatable="false">Please Update your Bubble to the latest FW to get Libre2/Pro/US 14 days native support</string>
@@ -322,7 +322,7 @@
     <string name="delete_all_key" translatable="false">Delete All</string>
     <string name="toast_graph_height" translatable="false">The Graph Height cannot be set lower than your High/Very High target</string>
     <string name="calibrationt_available" translatable="false">It\'s not a good Calibration point, try to Calibrate 30 mins later</string>
-    <string name="details_maxsensorlife" translatable="false">MaxSensorLife</string>
+    <string name="details_maxsensorlife" translatable="false">Duración máxima del sensor</string>
     <string name="unit_day1" translatable="false">d</string>
     <string name="unit_hour1" translatable="false">h</string>
     <string name="unit_minutes1" translatable="false">m</string>
@@ -370,8 +370,8 @@
     <string name="calibration_rules" translatable="false">Calibration Rules</string>
     <string name="invalid_qr_code" translatable="false">Invalid QR code</string>
     <string name="copy_success" translatable="false">Copy Success</string>
-    <string name="reading_min" translatable="false">Update reading in 1 min interval</string>
-    <string name="recommended_ns_service" translatable="false">Recommended NS Service Provider</string>
+    <string name="reading_min" translatable="false">Actualizar lecturas en intervalos de 1 min</string>
+    <string name="recommended_ns_service" translatable="false">Proveedor NS recomendado</string>
     <string name="add_ns" translatable="false">Add Nightscout</string>
     <string name="day_1" translatable="false">1 Day</string>
     <string name="days_7" translatable="false">7 Days</string>
