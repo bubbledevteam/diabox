@@ -100,7 +100,7 @@
     <string name="iftt">IFTT</string>
     <string name="workflow_shortcuts">Workflow/Shortcuts</string>
     <string name="http_server">Share data with other apps</string>
-    <string name="http_server_integration">Android APS,Xdrip...Integration!</string>
+    <string name="http_server_integration">Android APS,xDrip+...integration!</string>
     <string name="instructions">Instructions</string>
     <string name="Dexcom_Share">Dexcom Share Credentials</string>
     <string name="internal_ns">Nightscout Share Credentials</string>
